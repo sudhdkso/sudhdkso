@@ -26,37 +26,38 @@ Here are some ideas to get you started:
 <hr/>
 <div align="center">
 <!-- 언어 -->
-<div>
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white"/>
-<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
-</div>
+  <div>
+    <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white"/>
+    <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white"/>
+    <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=OpenJDK&logoColor=white"/>
+  </div>
 
 <!-- 프레임워크 -->
-<div>
-<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat&logo=Spring Boot&logoColor=white"/>
-<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vuedotjs&logoColor=white"/>
-</div>
-
+  <div>
+    <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat&logo=Spring Boot&logoColor=white"/>
+    <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vuedotjs&logoColor=white"/>
+    <img alt="Gradle" src ="https://img.shields.io/badge/Gradle-02303A.svg?&style=flat&logo=Gradle&logoColor=white"/>
+    <img alt="Swagger" src ="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=flat&logo=Swagger&logoColor=white"/>
+  </div>
 <!-- DB -->
-<div>
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
-<img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat&logo=MariaDB&logoColor=white"/>
-<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white"/>
-</div>
+  <div>
+    <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
+    <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat&logo=MariaDB&logoColor=white"/>
+    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white"/>
+  </div>
 
-<div>
-<img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=flat&logo=Visual Studio&logoColor=white"/>
-<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=flat&logo=IntelliJIDEA&logoColor=white"/>
-</div>
+  <div>
+    <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=flat&logo=Visual Studio&logoColor=white"/>
+    <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Visual Studio     Code&logoColor=white"/>
+    <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=flat&logo=IntelliJIDEA&logoColor=white"/>
+  </div>
   
-<div>
-<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat&logo=Amazon AWS&logoColor=white"/>
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/>
-<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white"/>
-<img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat&logo=GitLab&logoColor=white"/>
-</div>
+  <div>
+    <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat&logo=Amazon AWS&logoColor=white"/>
+    <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/>
+    <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white"/>
+    <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat&logo=GitLab&logoColor=white"/>
+  </div>
 </div>
 <div align="center"><h3> 💻 Cowork Tools 💻</h3></div>
 <hr/>
