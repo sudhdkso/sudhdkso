@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  안녕하세요
  ```
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudhdkso)](https://github.com/anuraghazra/github-readme-stats)
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhdkso&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhdkso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 <div align="center"><h3> 💻 Tech Stacks 💻</h3></div>
