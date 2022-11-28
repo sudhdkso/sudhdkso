@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 <div align="center"> 
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldbs0617)](https://solved.ac/wldbs0617/) 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudhdkso)](https://github.com/anuraghazra/github-readme-stats) </div>
+</div>
