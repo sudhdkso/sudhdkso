@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
   <div>
     <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=flat&logo=Visual Studio&logoColor=white"/>
-    <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Visual Studio     Code&logoColor=white"/>
+    <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=VisualStudio   Code&logoColor=white"/>
     <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=flat&logo=IntelliJIDEA&logoColor=white"/>
   </div>
   
