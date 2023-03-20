@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <!-- 프레임워크 -->
   <div>
     <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat&logo=Spring Boot&logoColor=white"/>
-    <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vuedotjs&logoColor=white"/>
     <img alt="Gradle" src ="https://img.shields.io/badge/Gradle-02303A.svg?&style=flat&logo=Gradle&logoColor=white"/>
     <img alt="Swagger" src ="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=flat&logo=Swagger&logoColor=white"/>
   </div>
