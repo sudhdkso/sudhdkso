@@ -26,9 +26,6 @@ Here are some ideas to get you started:
  개발자로서 **꾸준히 노력**하고 배우며 기술 습득이 빠릅니다. <br/>
  문제를 해결하는 것에 원동력을 얻는 **무한 동력** 개발자입니다. <br/>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudhdkso&card_width=370)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhdkso&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
 <div align="center"><h3> 💻 Tech Stacks 💻</h3></div>
 <hr/>
@@ -83,4 +80,8 @@ Here are some ideas to get you started:
 <div align="center"> 
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldbs0617)](https://solved.ac/wldbs0617/) 
+  <br>
+<!--     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudhdkso&card_width=370)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhdkso&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats) -->
+  
 </div>
