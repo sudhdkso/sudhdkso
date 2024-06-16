@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <div>
     <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
     <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat&logo=MariaDB&logoColor=white"/>
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white"/>
+    <!--<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white"/>-->
   </div>
 
   <div>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   </div>
   
   <div>
-    <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat&logo=Amazon AWS&logoColor=white"/>
+    <!--<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat&logo=Amazon AWS&logoColor=white"/>-->
     <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/>
     <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white"/>
     <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat&logo=GitLab&logoColor=white"/>
