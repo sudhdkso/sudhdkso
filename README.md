@@ -97,7 +97,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>2022.01 ~ 2022.03</td>
-    <td><a href="href="https://github.com/sudhdkso/2022-SolutionChallenge-UsNe"">UsNe</a></td>
+    <td><a href="https://github.com/GDSC-DEU/2022-SolutionChallenge-UsNe">UsNe</a></td>
     <td>지인들과 함께 현명한 소비 습관을 만드는 공유 가계부 서비스</td>
     <td>Google</td>
   </tr>
